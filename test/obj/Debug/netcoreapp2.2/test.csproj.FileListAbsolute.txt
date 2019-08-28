@@ -1,0 +1,14 @@
+C:\Users\Michael\RiderProjects\graphql\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
+C:\Users\Michael\RiderProjects\graphql\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+C:\Users\Michael\RiderProjects\graphql\test\obj\Debug\netcoreapp2.2\test.RazorAssemblyInfo.cache
+C:\Users\Michael\RiderProjects\graphql\test\obj\Debug\netcoreapp2.2\test.RazorAssemblyInfo.cs
+C:\Users\Michael\RiderProjects\graphql\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+C:\Users\Michael\RiderProjects\graphql\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+C:\Users\Michael\RiderProjects\graphql\test\bin\Debug\netcoreapp2.2\test.deps.json
+C:\Users\Michael\RiderProjects\graphql\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+C:\Users\Michael\RiderProjects\graphql\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+C:\Users\Michael\RiderProjects\graphql\test\bin\Debug\netcoreapp2.2\test.dll
+C:\Users\Michael\RiderProjects\graphql\test\bin\Debug\netcoreapp2.2\test.pdb
+C:\Users\Michael\RiderProjects\graphql\test\obj\Debug\netcoreapp2.2\test.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\RiderProjects\graphql\test\obj\Debug\netcoreapp2.2\test.dll
+C:\Users\Michael\RiderProjects\graphql\test\obj\Debug\netcoreapp2.2\test.pdb
